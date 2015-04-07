@@ -35,6 +35,8 @@ This resource provides links to documentation on all 15 qidgets that TkInter sup
 - Menu
 - Scrollbar
 - Top-Window
+
+
 just to name a few..
 Canvas provides the functionality of being able to draw graphs and plots, and create graphics. This allows you to incorporate whatever design, shape, or look, you please into your GUI. Label can also be used for displaying images. This answers question: 2
 The entire layout of the GUI is controlled by the use of the above widgets. But Frame is the main widget used to group other widgets together. The GUI Frame can have a border and a background, then other widgets are included within the frame. Within the frame you can place anything you want to be in the GUI, including: buttons, message boxes, check boxes, menu, canvas, label, radio button, scrollbar, and other elements. Lastly there is a qidget called Top-level that is displayed as a window separate of the frame, which could be useful if you could benefit from possibly having a title window or something of that sort.
